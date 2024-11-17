@@ -12,7 +12,7 @@ Dette er et simpelt projekt til LaTeX, som kan bruges som skabelon.
 6. Åben `document.pdf` for at se det byggede dokument.
 
   
-## Organisering af projektet
+## Organisering af filer
 
 Projektet er organiseret på følgende måde:
 
